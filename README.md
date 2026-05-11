@@ -13,7 +13,7 @@
 ## Demo example && Tutorial: https://www.youtube.com/channel/UCruIOA7hJdYZF0dkFKUFPvA
 
 ## PC微信Hook 接口文档/Interface Docs：
-4.1.5.30 版本
+4.1.9.30 版本
 https://www.showdoc.com.cn/PCWeixin41530/11559060626558382
 
 3.9.10.16 版本
@@ -27,7 +27,7 @@ https://www.showdoc.com.cn/2598846742080801/11559013239983821
 </br>
 
 # History
-## PC微信3.9.10.16/4.1.5.30接口
+## PC微信3.9.10.16/4.1.9.30接口
 ## PC wechat 3.9.10.16 interface
 ## PC weixin 4.1.5.30 interface
 
